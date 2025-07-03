@@ -39,6 +39,9 @@ Bar Chart: Genre-wise Average Ratings
 Line Chart: Revenue by Year
 Interactive Dashboard with Filters (Genre, Year)
 
+![Movie Revenue Dashboard](https://github.com/user-attachments/assets/7efe5da4-a900-4c86-aced-c0d8182412c0)
+
+
 Key Insights
 
 Action, Adventure, and Sci-Fi genres generated the highest revenues
